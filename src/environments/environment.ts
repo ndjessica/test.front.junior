@@ -5,9 +5,9 @@
 export const environment = {
 	production: false,
 	useHash: false,
-	serverUrl: '//tourism.lucienbertin.com',
+	// serverUrl: '//tourism.lucienbertin.com',
 	// use this line if you want to use a server hosted on your computer
-	// serverUrl: '//localhost:3000',
+	serverUrl: '//localhost:3000',
 };
 
 /*
